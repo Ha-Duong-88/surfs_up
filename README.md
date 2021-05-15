@@ -29,8 +29,6 @@ In comparison, for the most active weather station, we had a count of 2772 with:
 
 ![image](https://user-images.githubusercontent.com/80140082/118378888-8caa8880-b58b-11eb-852b-f42ee295d82e.png)
 
-![image](https://user-images.githubusercontent.com/80140082/118379198-73a2d700-b58d-11eb-896c-96e4e4ad41e5.png)
-
-
+![image](https://user-images.githubusercontent.com/80140082/118379237-acdb4700-b58d-11eb-9ae7-43bf0632b66a.png)
 
 
