@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
+
 # Surfs Up Analysis
 Module 9 - Advanced Data Storage and Retrieval
 
@@ -19,4 +19,4 @@ High level summary of the results and two additional queries to gather additiona
 
 2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
