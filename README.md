@@ -17,7 +17,7 @@ High level summary of the results and two additional queries to gather additiona
 
 ![image](https://user-images.githubusercontent.com/80140082/118376414-9f699100-b57c-11eb-9c36-80a1e1b4f049.png)
 
-2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.
+2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.0.
 
 ![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
 
