@@ -18,7 +18,7 @@ High level summary of the results and two additional queries to gather additiona
 
 ![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
 
-3) The standard deviation was 3.25 and and 3.75 (rounded up) for June and December, respectively. 
+3) The standard deviation was 3.25 and and 3.75 (rounded up) for June and December, respectively. Also, the mean temperature for June is slightly higher than December.
 
 
 # Summary
