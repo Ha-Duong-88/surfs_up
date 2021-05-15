@@ -37,11 +37,11 @@ In comparison, for the most active weather station, we had:
 ![image](https://user-images.githubusercontent.com/80140082/118379437-32abc200-b58f-11eb-8b1d-6ccd4dfad691.png)
 
 
-* For the most active station, we have a minimum temperature of 65, maximum temperature of 82, and average temperature of 73.7 (rounded up) for June.
+* For the most active station, we had a minimum temperature of 65, maximum temperature of 82, and average temperature of 73.7 (rounded up) for June.
 
 ![image](https://user-images.githubusercontent.com/80140082/118379389-d34db200-b58e-11eb-86a7-9d48e84740c5.png)
 
-*  For the most active station, we have a minimum temperature of 58, maximum temperature of 79, and average temperature of 69.9 for December.
+*  For the most active station, we had a minimum temperature of 58, maximum temperature of 79, and average temperature of 69.9 for December.
 
 ![image](https://user-images.githubusercontent.com/80140082/118379393-dcd71a00-b58e-11eb-944e-87b755813e6e.png)
 
