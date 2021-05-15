@@ -12,14 +12,8 @@ Based on the analysis, there are three key differences
 # Summary
 High level summary of the results and two additional queries to gather additional weather data for June and Dec
 
-1) In June, the minimum, maximum, and average temperature is shown in the table below:
+1) In June, we had a max count of 1700, a minimum temperature of 64, maximimum temperature of 85, and an average temperature of 74.9.
 
-	Temperature for June
-count	1700.000000
-mean	74.944118
-std	3.257417
-min	64.000000
-25%	73.000000
-50%	75.000000
-75%	77.000000
-max	85.000000
+![image](https://user-images.githubusercontent.com/80140082/118376288-f327aa80-b57b-11eb-84b3-c27aaff8ab40.png)
+
+2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.
