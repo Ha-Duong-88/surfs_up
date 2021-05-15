@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
 # Surfs Up Analysis
 Module 9 - Advanced Data Storage and Retrieval
 
@@ -14,6 +15,8 @@ High level summary of the results and two additional queries to gather additiona
 
 1) In June, we had a max count of 1700, a minimum temperature of 64, maximimum temperature of 85, and an average temperature of 74.9.
 
-![image](https://user-images.githubusercontent.com/80140082/118376288-f327aa80-b57b-11eb-84b3-c27aaff8ab40.png)
+![image](https://user-images.githubusercontent.com/80140082/118376414-9f699100-b57c-11eb-9c36-80a1e1b4f049.png)
 
 2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.
+
+![Uploading image.png…]()
