@@ -20,3 +20,7 @@ High level summary of the results and two additional queries to gather additiona
 2) In December, we had a max count of 1517, a minimum temperature of 56, maximimum temperature of 83, and an average temperature of 71.
 
 ![image](https://user-images.githubusercontent.com/80140082/118376399-94aefc00-b57c-11eb-9dbb-ce9a9ebcda7c.png)
+
+3) In comparison, for the most active weather station, we had a:
+      a) minimum temperature of 54.0, maximum temperature of 85.0, and an average temperature of 71.6 for June
+      b) minimum temperature of 58.0, maximum temperature of 79.0, and an average temperature of 69.9 for December
