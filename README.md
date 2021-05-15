@@ -27,7 +27,13 @@ In comparison, for the most active weather station, we had a count of 2772 with:
 * minimum temperature of 54.0, maximum temperature of 85.0, and an average temperature of 71.6 for June
 * minimum temperature of 58.0, maximum temperature of 79.0, and an average temperature of 69.9 for December
 
-![image](https://user-images.githubusercontent.com/80140082/118378888-8caa8880-b58b-11eb-852b-f42ee295d82e.png)
+![image](https://user-images.githubusercontent.com/80140082/118379370-be711e80-b58e-11eb-83a8-89a5400399e1.png
+![image](https://user-images.githubusercontent.com/80140082/118379375-c5982c80-b58e-11eb-8e54-f03039114c05.png)
+![image](https://user-images.githubusercontent.com/80140082/118379389-d34db200-b58e-11eb-86a7-9d48e84740c5.png)
+![image](https://user-images.githubusercontent.com/80140082/118379393-dcd71a00-b58e-11eb-944e-87b755813e6e.png)
 
-![image](https://user-images.githubusercontent.com/80140082/118379259-d5634100-b58d-11eb-8250-cd6c36da0495.png)
 
+
+
+
+The project utilized SQLite, SQLAlchemy, and Flask to query, analyze and visualize climate data to build the business case. As part of this analysis, weather precipitation statistics such as minimum, maximum, and average temperatures in June and December and weather stations were analyzed. Flask was used to design and build a climate web application to display the information. The temperature data was converted into a Pandas DataFrame and weather statistics were gathered.
