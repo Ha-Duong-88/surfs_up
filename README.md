@@ -9,5 +9,17 @@ The project utilized SQLite, SQLAlchemy, and Flask to query, analyze and visuali
 ## Analysis 
 Based on the analysis, there are three key differences
 
-# Summaary
+# Summary
 High level summary of the results and two additional queries to gather additional weather data for June and Dec
+
+1) In June, the minimum, maximum, and average temperature is shown in the table below:
+
+	Temperature for June
+count	1700.000000
+mean	74.944118
+std	3.257417
+min	64.000000
+25%	73.000000
+50%	75.000000
+75%	77.000000
+max	85.000000
