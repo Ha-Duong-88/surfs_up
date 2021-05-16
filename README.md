@@ -25,19 +25,27 @@ High level summary of the results and two additional queries to gather additiona
 
 
 # Summary
-In comparison, for all the active weather station, we had:
+In comparison, 
 
-* Minimum temperature of 53.0, maximum temperature of 87.0, and an average temperature of 73.09 year round.
+* For all the active weather station, we had a minimum temperature of 53.0, maximum temperature of 87.0, and an average temperature of 73.09 year round.
 
-In addition, for the most active station, we had:
+* For the most active station, we had:
 
-* For the most active station, we had a minimum temperature of 65, maximum temperature of 82, and average temperature of 73.3 (rounded up) for June.
+      * For the most active station, we had a minimum temperature of 65, maximum temperature of 82, and average         temperature of 73.3 (rounded up) for June.
 
 ![image](https://user-images.githubusercontent.com/80140082/118379389-d34db200-b58e-11eb-86a7-9d48e84740c5.png)
 
-*  For the most active station, we had a minimum temperature of 58, maximum temperature of 79, and average temperature of 69.9 for December.
+      *  For the most active station, we had a minimum temperature of 58, maximum temperature of 79, and average temperature of 69.9 for December.
 
 ![image](https://user-images.githubusercontent.com/80140082/118379393-dcd71a00-b58e-11eb-944e-87b755813e6e.png)
+
+* The average precipitation for June and December from 2010 - 2017 was:
+
+
+![image](https://user-images.githubusercontent.com/80140082/118405047-74d61180-b62a-11eb-96fb-99c2deae1b53.png)
+
+
+![image](https://user-images.githubusercontent.com/80140082/118405056-7ef81000-b62a-11eb-8624-55db9f740f34.png)
 
 
 
