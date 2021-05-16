@@ -27,7 +27,7 @@ High level summary of the results and two additional queries to gather additiona
 # Summary
 In comparison, for all the active weather station, we had:
 
-* minimum temperature of 53.0, maximum temperature of 87.0, and an average temperature of 73.09 for Jan - Dec
+* Minimum temperature of 53.0, maximum temperature of 87.0, and an average temperature of 73.09 for Jan - Dec
 
 In addition, for the most active station, we had:
 
