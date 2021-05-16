@@ -27,12 +27,11 @@ High level summary of the results and two additional queries to gather additiona
 # Summary
 In comparison, for all the active weather station, we had:
 
-* minimum temperature of 54.0, maximum temperature of 85.0, and an average temperature of 71.6 for June for 2015 - 2017.
-* minimum temperature of 58.0, maximum temperature of 79.0, and an average temperature of 69.9 for December for 2015 - 2017.
+* minimum temperature of 53.0, maximum temperature of 87.0, and an average temperature of 73.09 for Jan - Dec
 
 In addition, for the most active station, we had:
 
-* For the most active station, we had a minimum temperature of 65, maximum temperature of 82, and average temperature of 73.7 (rounded up) for June.
+* For the most active station, we had a minimum temperature of 65, maximum temperature of 82, and average temperature of 73.3 (rounded up) for June.
 
 ![image](https://user-images.githubusercontent.com/80140082/118379389-d34db200-b58e-11eb-86a7-9d48e84740c5.png)
 
